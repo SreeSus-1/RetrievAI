@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+pydantic==2.8.2
+PyJWT==2.9.0
+bcrypt==4.2.0
+numpy==1.26.4
+tqdm==4.66.4
+openai==1.43.0

@@ -1,0 +1,5 @@
+[
+  {"username": "admin",    "password": "admin123", "categories": ["Public", "Internal", "Private"]},
+  {"username": "employee", "password": "emp123",   "categories": ["Public", "Internal"]},
+  {"username": "public",   "password": "pub123",   "categories": ["Public"]}
+]
