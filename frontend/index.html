@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>RBAC RAG Chatbot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    :root { font-family: system-ui, sans-serif; }
+    body { margin: 0; background:#fafafa; color:#222; }
+    .wrap { max-width: 900px; margin: 32px auto; padding: 0 16px; }
+    .card { background:#fff; border:1px solid #e6e6e6; border-radius:12px; padding:16px; box-shadow:0 2px 6px rgba(0,0,0,.04); }
+    .row { display:flex; gap:8px; align-items: center; }
+    .col { display:grid; gap:8px; }
+    input, select, button, textarea { font: inherit; padding: 10px 12px; border-radius:8px; border:1px solid #d0d0d0; background:#fff; }
+    textarea { min-height: 120px; }
+    button { cursor:pointer; border:1px solid #aaa; }
+    button.primary { background:#111; color:#fff; border-color:#111; }
+    .pill { padding: 6px 10px; border-radius: 20px; border:1px solid #bbb; background:#f5f5f5; display:inline-flex; gap:6px; align-items:center; }
+    .msg { white-space: pre-wrap; padding:10px; border-radius:10px; }
+    .msg.user { background:#eef; }
+    .msg.assistant { background:#f4f4f4; }
+    .ctx { font-size: 12px; color:#444; }
+    .muted { color:#777; }
+    .error { color:crimson; }
+    .hidden { display:none; }
+    dialog::backdrop { background: rgba(0,0,0,.25); }
+    dialog { border:none; border-radius:12px; padding:0; }
+    .dialog { padding:16px; min-width: 480px; }
+    .dialog h3 { margin-top:0; }
+    .dialog .actions { display:flex; gap:8px; justify-content:flex-end; margin-top: 12px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h2>RBAC RAG Chatbot</h2>
+
+    <!-- LOGIN -->
+    <div id="loginCard" class="card col" style="max-width:420px;">
+      <h3>Sign in</h3>
+      <input id="username" placeholder="Username"/>
+      <input id="password" placeholder="Password" type="password"/>
+      <div id="loginErr" class="error"></div>
+      <button id="loginBtn" class="primary">Sign in</button>
+      <div class="muted">Tip: users from <code>users.json</code> (e.g., admin/admin123)</div>
+    </div>
+
+    <!-- CHAT -->
+    <div id="chatCard" class="card col hidden">
+      <div class="row" style="justify-content:space-between;">
+        <div class="row" style="gap:12px;">
+          <span class="pill"><b>Categories:</b> <span id="roleLabel">-</span></span>
+          <span class="pill">
+            <label for="category">Category:</label>
+            <select id="category">
+              <option value="public">public</option>
+              <option value="internal">internal</option>
+              <option value="private">private</option>
+            </select>
+          </span>
+        </div>
+        <div class="row" style="gap:8px;">
+          <button id="flagBtn" class="hidden">🚩 Flag response</button>
+          <button id="logoutBtn">Logout</button>
+        </div>
+      </div>
+
+      <div id="messages" class="col" style="min-height:220px;"></div>
+
+      <div class="row">
+        <input id="prompt" placeholder="Ask something..." style="flex:1" />
+        <button id="sendBtn" class="primary">Send</button>
+      </div>
+
+      <div style="display:flex;align-items:center;gap:8px;margin-top:8px">
+        <label class="pill"><input id="toggleCtx" type="checkbox"> Show sources</label>
+      </div>
+      <div id="ctxBox" class="col hidden">
+        <h4>Context</h4>
+        <div id="ctxList" class="ctx"></div>
+      </div>
+
+      <div id="chatErr" class="error"></div>
+    </div>
+  </div>
+
+  <!-- Flag & Upload dialog -->
+  <dialog id="addDialog">
+    <div class="dialog col">
+      <h3>Flag response</h3>
+      <input id="addTitle" placeholder="Title"/>
+      <textarea id="addDesc" placeholder="Description / content"></textarea>
+
+      <!-- ❌ Checkboxes removed completely -->
+
+      <div class="row">
+        <label>Folder to place:</label>
+        <select id="addFolder">
+          <option value="public">public</option>
+          <option value="internal">internal</option>
+          <option value="private">private</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <label>Attachment:</label>
+        <input id="addFile" type="file" accept=".txt,.md,.pdf">
+      </div>
+
+      <div id="addErr" class="error"></div>
+      <div class="actions">
+        <button id="addCancel">Cancel</button>
+        <button id="addSubmit" class="primary">Submit</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="./script.js"></script>
+</body>
+</html>

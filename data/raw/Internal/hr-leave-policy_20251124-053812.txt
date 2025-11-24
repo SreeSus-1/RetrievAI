@@ -1,0 +1,140 @@
+==============================
+CATEGORY: PUBLIC
+==============================
+
+TITLE: TAMU-CC Time Off and Leave Overview
+TAMU-CC provides regular, budgeted, leave-eligible employees with paid time off options such as vacation, sick leave, holidays, family and medical leave, and birthday leave. 
+These benefits are designed to help employees balance work, personal, and family life.
+
+Employees can refer to the official HR website for complete and current policies:
+- Time Off Program Guide: https://www.tamucc.edu/human-resources/time-off/assets/documents/time-off-guide.pdf
+- Holiday Schedule: https://www.tamucc.edu/human-resources/time-off/holiday.php
+- Birthday Leave: https://www.tamucc.edu/human-resources/time-off/birthday-leave.php
+- Family and Medical Leave (FMLA): https://www.tamucc.edu/human-resources/time-off/fmla.php
+
+The University observes the following legal holidays:
+New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, and Christmas Day.
+
+Employees may be eligible for additional time-off programs such as bereavement leave, voting leave, jury duty leave, and emergency leave.
+
+
+
+TITLE: Birthday Leave Summary
+TAMU-CC offers paid time off for employees’ birthdays as a recognition benefit.
+- Must be taken within 40 days before or after the birthday.
+- Not eligible for payout.
+- Full-time employees: 8 hours | Part-time employees: proportional.
+- Cannot be split into partial days.
+- Must be approved by the supervisor.
+
+
+
+TITLE: Vacation and Sick Leave Summary
+Vacation:
+- Accrued monthly based on years of service.
+- Carry-forward maximums range from 180 to 532 hours.
+- Must have 6 months of continuous state employment before using vacation leave.
+
+Sick Leave:
+- 8 hours per month for full-time employees.
+- Proportional for part-time employees.
+- Unlimited accumulation; unused hours carry forward annually.
+
+
+
+==============================
+CATEGORY: INTERNAL
+==============================
+
+TITLE: Detailed Birthday Leave Procedure
+Eligible employees must request birthday leave through Workday:
+1. Log in at https://sso.tamus.edu
+2. Select “Time Off” worklet → “Time Off”
+3. Choose the day of leave → Select “Other Emergencies” as Type
+4. Enter “Birthday Leave” in the comment box.
+Approval by the supervisor is mandatory before leave is taken.
+Supervisors must ensure that the employee has not already used their birthday leave for the fiscal year.
+
+If an employee is not physically at work during their birthday month (due to sick leave, FMLA, LWOP, etc.), the leave must be taken within 30 days of returning to work.
+
+
+
+TITLE: Holiday Pay and Eligibility
+Employees must be in a paid status for at least part of:
+- The last regularly scheduled workday before the holiday, and
+- The first regularly scheduled workday after the holiday,
+to receive holiday pay.
+
+Employees who work on a scheduled holiday are entitled to equivalent time off within 12 months following the holiday week.
+
+
+
+TITLE: Vacation Carry Forward Schedule (Full-Time Employees)
+| Years of Service | Hours Earned/Month | Max Carry Forward |
+||--|-|
+| 0–2  | 8  | 180 |
+| 2–4  | 9  | 244 |
+| 5–9  | 10 | 268 |
+| 10–14 | 11 | 292 |
+| 15–19 | 13 | 340 |
+| 20–24 | 15 | 388 |
+| 25–29 | 17 | 436 |
+| 30–34 | 19 | 484 |
+| 35+ | 21 | 532 |
+
+Supervisors may deny vacation leave requests if granting them causes operational hardship.
+
+
+
+TITLE: Family and Medical Leave (FMLA) Essentials
+- Up to 4 weeks of job-protected leave per year for qualifying medical or family reasons.
+- Must have 32 months of employment and 2200 hours worked.
+- Runs concurrently with paid leave (vacation/sick).
+- Medical certification must be submitted within 15 days of request.
+- Return-to-work clearance may be required.
+
+
+
+==============================
+CATEGORY: PRIVATE
+==============================
+
+TITLE: HR Contact and Approval Procedures
+Sick Leave Pool Contact:
+- Name: Jennifer Escamilla
+- Email: jennifer.escamilla@tamucc.edu
+- Phone: 361-825-2180
+
+Benefits Billing Contact:
+- Name: Mary Canales
+- Phone: 361-825-6081
+
+Approvals for Bereavement Leave:
+- Up to 16 hours: Manager and HR approval through Workday.
+- 16–80 hours: Requires Vice President or Designee approval.
+- Over 80 hours: Requires President or Designee approval (outside Workday).
+
+
+
+TITLE: Sick Leave Pool and Donation Process
+Employees must exhaust all personal leave before applying.
+Required documents:
+- Medical Certification Form
+- Sick Leave Pool Withdrawal Form
+All forms go through HR for review and must be approved before additional hours are granted.
+Retroactive requests are not allowed.
+
+Donation Tax Guidelines:
+- Donations under 40 hours (non-medical emergency) are taxable.
+- Donations over 40 hours for medical emergencies are non-taxable.
+
+
+
+TITLE: Workers’ Compensation Internal Workflow
+Supervisors must submit First Report of Injury through Origami within 24 hours.
+Email notification to payroll@tamucc.edu is mandatory after submission.
+Department heads must ensure compliance and forward required medical documentation for state reporting.
+
+
+
+END OF DOCUMENT

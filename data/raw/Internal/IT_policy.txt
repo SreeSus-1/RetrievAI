@@ -1,0 +1,118 @@
+==============================
+CATEGORY: PUBLIC
+==============================
+
+TITLE: IT Acceptable Use Summary
+The IT Acceptable Use Standard defines rights and responsibilities for all users of information and information resources owned or controlled by Texas A&M University–Corpus Christi (TAMU-CC).
+
+The purpose of this policy is to ensure the responsible use of university information technology systems and to mitigate risks related to information security, privacy, and accessibility.
+
+This policy applies to:
+- All faculty, staff, students, affiliates, contractors, and guests.
+- All information resources such as computers, servers, networks, and cloud systems under TAMU-CC control.
+
+Users are expected to:
+- Protect university data.
+- Use technology for authorized purposes only.
+- Respect others’ privacy and intellectual property.
+
+For official references:
+- Security of Electronic Information Resources (Rule 29.01.99.C1)  
+  https://www.tamucc.edu/governance/rules-procedures/assets/29.01.99.c1security-of-electronic-information-resources.pdf
+- TAMU System Data Classification Standard  
+  https://assets.system.tamus.edu/files/policy/pdf/securitystandards/
+
+
+
+TITLE: Purpose and Audience
+The goal of this standard is to educate all users about their rights and responsibilities in using TAMU-CC information resources.  
+The audience includes faculty, staff, students, affiliates, and contractors.
+
+
+
+TITLE: Key Definitions (Public Overview)
+- **Public Information:** Data intentionally available to the general public through official websites or media.  
+- **Confidential Information:** Data exempt from public disclosure under state or federal law (e.g., student records, SSNs, health information).  
+- **Information Resources:** Equipment, software, and procedures used to collect, process, store, and transmit university information.
+
+
+
+==============================
+CATEGORY: INTERNAL
+==============================
+
+TITLE: Roles and Responsibilities (Internal Summary)
+TAMU-CC defines several key IT roles:
+
+- **Owner:** Person or department authorized to determine who may access a resource.  
+- **Custodian:** Individual or team responsible for maintaining systems and implementing security controls defined by the Owner.  
+- **Information Security Officer (ISO):** Responsible for university-wide information security.  
+- **Information Resources Manager (IRM):** Designated by the President, manages all information resources.  
+- **EIR Accessibility Coordinator (EIRAC):** Ensures that digital content meets accessibility standards (TAC 213).  
+
+Employees in these roles must maintain documentation of access privileges and review them annually.
+
+
+
+TITLE: Controlled Information Guidelines
+Controlled information includes:
+- Operational information, personnel records, internal communications, research data, and IT security procedures.  
+Such information is not intended for public release but may be disclosed through proper channels if required by law.
+
+Access to controlled information must follow university authentication and authorization policies, including password management and multifactor authentication (MFA).
+
+
+
+TITLE: System Usage and Enforcement
+- Users must not share credentials, download unauthorized software, or attempt to bypass security mechanisms.
+- System logs are monitored for security and compliance.
+- Violations of this policy may result in disciplinary action, suspension of access, or referral to HR or legal authorities.
+
+
+
+==============================
+CATEGORY: PRIVATE
+==============================
+
+TITLE: Internal Security and Contact Directory
+**Information Security Office (ISO):**
+- Email: security@tamucc.edu
+- Phone: 361-825-2270
+- Director: Dr. Lisa Nguyen
+
+**IT Infrastructure and Network Team:**
+- Email: network-ops@tamucc.edu
+- Phone: 361-825-3111
+- Lead: John Ramirez
+
+**Incident Reporting:**
+- Email: it-security@tamucc.edu
+- Hotline: 361-825-HELP (4357)
+
+Private contacts are restricted to internal TAMU-CC personnel for security and compliance coordination.
+
+
+
+TITLE: Incident Response Workflow (Private Access)
+1. User identifies or suspects a security incident (phishing, malware, data loss).
+2. Report immediately via the IT Service Desk or security@tamucc.edu.
+3. ISO classifies the incident and notifies the IRM.
+4. The response team performs containment, eradication, and recovery.
+5. Final reports are submitted to system administration and legal counsel if required.
+
+Confidential data (student records, financial data, SSNs, etc.) must be encrypted during all stages of handling.
+
+
+
+TITLE: Vendor and Contractor Access
+Contractors and third parties with an IslandID must:
+- Sign the Acceptable Use Agreement.
+- Complete the annual security awareness module.
+- Use TAMU-CC-approved VPN for remote access.
+- Follow data retention and disposal guidelines.
+
+Access credentials are terminated immediately upon contract completion or violation of university IT policies.
+
+
+
+END OF DOCUMENT

@@ -1,0 +1,72 @@
+==============================
+CATEGORY: PUBLIC
+==============================
+TITLE: TAMU-CC Grading Guidelines – Overview
+Texas A&M University–Corpus Christi (TAMU-CC) uses a standardized grading system to evaluate academic performance. Grades are assigned per course and reported using symbols that carry grade points per semester hour. Complete details are available on the Registrar’s official website (url:https://www.tamucc.edu/academics/registrar/grades/index.php).
+
+TITLE: Standard Letter Grades
+GradeGrade Points per Semester HourInterpretationA4ExcellentB3GoodC2AverageD1PassingF0Failure
+
+TITLE: Alternative and Special Grades
+GradePointsInterpretationCRNot counted in GPACredit – Satisfactory, but without qualitative grading (see Alternate Grading Systems) (url:https://www.tamucc.edu/academics/registrar/grades/alternative-grading-systems.php)NCNot counted in GPANo CreditPNot counted in GPAPass – Satisfactory but without qualitative grading. Applies only to courses under the Pass/No Pass Policy (url:https://www.tamucc.edu/academics/registrar/grades/pass-no-pass-policy.php). Not used in graduate courses.NPNot counted in GPANo Pass – No credit, not punitive; applies only to courses under the Pass/No Pass Policy. Students are encouraged to review the full policy (url:https://www.tamucc.edu/academics/registrar/grades/pass-no-pass-policy.php).SNot counted in GPASatisfactory – Used for specified graduate courses.UNot counted in GPAUnsatisfactory – Used for specified graduate courses.
+
+TITLE: Incomplete and Progress Grades
+GradePointsInterpretationINot counted in GPAIncomplete – Given to a student who is passing but unable to complete required work (paper, exam, etc.) for reasons beyond their control.IMNot counted in GPAIncomplete–Military – Given to a student called to active duty who cannot continue attendance, provided they are passing and have completed a significant portion of coursework.IPNot counted in GPAIn Progress – For remedial, thesis, or dissertation courses still underway at semester’s end. Does not affect GPA. Requires re-registration for a qualitative grade.
+
+TITLE: Withdrawal Grades
+GradePointsInterpretationWNot counted in GPACourse Dropped / Withdrawal from University – Assigned automatically upon official withdrawal before the published deadline. See Adding or Dropping a Course (url:https://www.tamucc.edu/cost-and-aid/financial-aid/info-for-students/withdrawal.php#Adding_or_Dropping_a_Course).WPNot counted in GPAWithdrawal Pass – Used before Fall 1996 when a student withdrew while passing; remains on transcript.WFCounted toward GPA (pre-1996)Withdrawal Failure – Used before Fall 1996 when a student withdrew while failing; remains on transcript.
+
+TITLE: Incomplete or Missing Grades Policy
+If no grade is submitted by the instructor, a temporary notation “X” is recorded. The final grade must be submitted within 30 days from the start of the next semester. If the instructor is unable to submit a grade within that time, the Dean—after consulting with faculty—will assign the final grade.
+
+TITLE: Withdrawal Procedures and Proof of Withdrawal
+Students must officially withdraw through the Office of the Registrar for a “W” grade.
+The withdrawal receipt from the Registrar’s Office should be kept as official proof.
+Stopping attendance without official withdrawal may result in a letter grade (A–F) assignment if the student does not qualify for an “I.”
+
+TITLE: Related Grading Tools and Policies
+Students can access the following Registrar resources:
+
+
+Get Your Grades (url:https://www.tamucc.edu/academics/registrar/grades/get-your-grades.php)
+
+
+Calculate Your GPA (url:https://www.tamucc.edu/academics/registrar/grades/calculate-your-gpa.php)
+
+
+Grade Changes (url:https://www.tamucc.edu/academics/registrar/grades/grade-changes.php)
+
+
+Pass/No Pass Policy (url:https://www.tamucc.edu/academics/registrar/grades/pass-no-pass-policy.php)
+
+
+Alternative Grading Systems (url:https://www.tamucc.edu/academics/registrar/grades/alternative-grading-systems.php)
+
+
+
+==============================
+CATEGORY: INTERNAL
+==============================
+TITLE: Administrative Grading Responsibilities
+
+
+Faculty are responsible for timely grade submission within University deadlines.
+
+
+Department chairs or deans may intervene to assign grades when instructors cannot meet submission timelines.
+
+
+Registrar’s Office maintains records and manages grade changes per University policy.
+
+
+
+TITLE: Historical Grade Symbols (Pre-1996)
+Grades WP (Withdrawal Pass) and WF (Withdrawal Failure) were used before Fall 1996 and remain part of older academic records. These grades are view-only and not recalculated in GPA unless policy dictates otherwise.
+
+==============================
+CATEGORY: PRIVATE
+==============================
+TITLE: Confidential Academic Records Handling
+Specific student grading data and individual performance reports are protected under FERPA. Access is restricted to authorized faculty, Registrar staff, and designated University officials with legitimate educational interest. Such data are not for public disclosure.
+
+END OF DOCUMENT
