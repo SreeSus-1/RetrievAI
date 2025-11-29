@@ -212,13 +212,8 @@ User studies for usability + trust metrics
 
 Vector database integration (FAISS, Qdrant, Pinecone)
 
-👩‍💻 Authors
-
-Ramya Sree Kanijam
-Alam K Sathya Chowdary LNU
-Lakshmi Sahithi Likhya Paruchuri
-Texas A&M University – Corpus Christi
 
 ⭐ If you like this project, please star the repository!
+
 
 
