@@ -88,7 +88,6 @@ chat.py – RAG generation + refusal logic
 
 Data/raw/ – public, internal, private folders
 
-```md
 ### 📁 Folder Structure
 
 ```text
@@ -114,6 +113,8 @@ RetrievAI/
 │
 ├── README.md
 └── requirements.txt
+```
+
 
 🛠️ Tech Stack
 Layer	Tools
@@ -213,6 +214,7 @@ Vector database integration (FAISS, Qdrant, Pinecone)
 
 
 ⭐ If you like this project, please star the repository!
+
 
 
 
