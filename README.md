@@ -90,24 +90,28 @@ Data/raw/ – public, internal, private folders
 
 📁 Folder Structure
 RetrievAI/
-│── backend/
+├── backend/
 │   ├── main.py
 │   ├── auth.py
 │   ├── retriever.py
 │   ├── indexer.py
 │   ├── chat.py
-│   ├── utils.py
-│── Data/
+│   └── utils.py
+│
+├── Data/
 │   └── raw/
 │       ├── Public/
 │       ├── Internal/
-│       ├── Private/
-│── frontend/
+│       └── Private/
+│
+├── frontend/
 │   ├── index.html
 │   ├── app.js
 │   └── styles.css
-│── README.md
-│── requirements.txt
+│
+├── README.md
+└── requirements.txt
+
 
 🛠️ Tech Stack
 Layer	Tools
@@ -213,3 +217,4 @@ Lakshmi Sahithi Likhya Paruchuri
 Texas A&M University – Corpus Christi
 
 ⭐ If you like this project, please star the repository!
+
