@@ -1,4 +1,4 @@
-##RetrievAI — A Role-Aware, Knowledge-Augmented Conversational Agent
+## RetrievAI — A Role-Aware, Knowledge-Augmented Conversational Agent
 
 RetrievAI is a dual-RBAC (Role-Based Access Control), retrieval-augmented AI chatbot designed for secure enterprise environments. It combines dense semantic retrieval, grounded generation, and fine-grained permission filtering to deliver accurate, cited, and policy-compliant responses for users across three access levels:
 
@@ -214,6 +214,7 @@ Vector database integration (FAISS, Qdrant, Pinecone)
 
 
 ⭐ If you like this project, please star the repository!
+
 
 
 
