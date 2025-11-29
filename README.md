@@ -114,7 +114,7 @@ RetrievAI/
 ├── README.md
 └── requirements.txt
 
-
+'''
 
 🛠️ Tech Stack
 Layer	Tools
@@ -214,6 +214,7 @@ Vector database integration (FAISS, Qdrant, Pinecone)
 
 
 ⭐ If you like this project, please star the repository!
+
 
 
 
