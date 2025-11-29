@@ -89,6 +89,8 @@ chat.py – RAG generation + refusal logic
 Data/raw/ – public, internal, private folders
 
 📁 Folder Structure
+
+```text
 RetrievAI/
 ├── backend/
 │   ├── main.py
@@ -113,6 +115,7 @@ RetrievAI/
 └── requirements.txt
 
 
+
 🛠️ Tech Stack
 Layer	Tools
 Backend	FastAPI, Uvicorn
@@ -123,7 +126,7 @@ Frontend	HTML/CSS/JS
 Storage	Local file system (Public/Internal/Private)
 ⚙️ Installation & Setup
 1. Clone repository
-git clone https://github.com/yourusername/RetrievAI.git
+git clone https://github.com/sreesus-1/RetrievAI.git
 cd RetrievAI
 
 2. Install dependencies
@@ -217,4 +220,5 @@ Lakshmi Sahithi Likhya Paruchuri
 Texas A&M University – Corpus Christi
 
 ⭐ If you like this project, please star the repository!
+
 
